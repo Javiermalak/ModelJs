@@ -1,0 +1,26 @@
+{
+  "name": "modeljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javiermalak/ModelJs.git"
+  },
+  "keywords": [
+    "model",
+    "js"
+  ],
+  "author": "Francisco Javier Vega Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javiermalak/ModelJs/issues"
+  },
+  "homepage": "https://github.com/Javiermalak/ModelJs#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
